@@ -1,4 +1,4 @@
 <?php
-echo 'Below is my PHP.ini configurations!';
+echo 'Below is my PHP.ini configuration settings!';
 phpinfo();
 ?>
